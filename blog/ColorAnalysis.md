@@ -9,7 +9,7 @@ tags: [freeform]
 
 Color Study: Nike
  
-<img src="ColorAnalysis1Pic.png"></img>
+<img src="blog/ColorAnalysis1Pic.png"></img>
 <b>Color Scheme Analysis:</b> Nike’s website utilizes an achromatic color scheme meaning that the use only black, gray and white in their design. The only pop of color found on the website is from the picture on the bottom two thirds of the screen. Within this picture, there is an even brighter pop of orange on the shoe, which also conveniently displays Nike’s logo. The achromatic color scheme gives the website a subtle, modern feel to it. I believe that Nike designed the page like to really emphasis and give attention to the picture of the shoe. They want users to focus on the product they are trying to sell and not the different tabs and navigational features of the website. I believe this is a very effective strategy because my eye is immediately drawn to the picture and the shoe. Even if I was going on the website to look for something specific, I am now also interested in looking into this shoe. The basic layout makes it simple for me to navigate to whatever I am searching for, reducing the need for color emphasizes on tabs and bars.
 Creating Unique Color Schemes
  

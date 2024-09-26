@@ -7,7 +7,7 @@ const config = {
   tagline: "Showcasing My Work and Thoughts",
   favicon: "img/favicon.ico",
 
-  url: "https://jweland.github.io/", // Replace with your actual domain
+  url: "https://jweland.github.io", // Replace with your actual domain
   baseUrl: "/",
 
   organizationName: "jweland", // Replace with your GitHub org/user name

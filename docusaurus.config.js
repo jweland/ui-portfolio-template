@@ -11,7 +11,7 @@ const config = {
   baseUrl: "/",
 
   organizationName: "jweland", // Replace with your GitHub org/user name
-  projectName: "ui-portfolio-template", // Replace with your repo/project name
+  projectName: "jweland/ui-portfolio-template", // Replace with your repo/project name
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",

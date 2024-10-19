@@ -8,8 +8,8 @@ permalink: /contact
 
 I would love to hear from you!
 
-- **Email**: [contact@yourdomain.com](mailto:contact@yourdomain.com)
-- **LinkedIn**: [linkedin.com/linkedin-website](https://linkedin.com/linkedin-website)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-github-username)
+- **Email**: [jillianweland@outlook.com](mailto:jillianweland@outlook.com)
+- **LinkedIn**: [linkedin.com/jillianweland](https://linkedin.com/jillianweland)
+- **GitHub**: [jweland](https://github.com/jweland)
 
 Feel free to drop a message or connect with me on social media.

@@ -11,5 +11,5 @@ The purpose of this reading was to share with the reader how they should stand u
 	
 One example of a website that I thought did a good job on their home page was Nike. When you first enter the website, you are not hit with tons of pop-ups and sign-ins. You are able to actually explore the page and find the content you want.
 
-![plot](InclusiveDesignPic.png)
+![plot](InclusiveDesignIPic.png)
 	

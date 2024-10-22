@@ -10,7 +10,7 @@ import styles from "./index.module.css";
 
 export default function Hello() {
   return (
-    <Layout title="Hello" description="Hello React Page">
+    <Layout title="StrideSync" description="StrideSync">
       <div
         style={{
           display: 'flex',
@@ -19,9 +19,9 @@ export default function Hello() {
           height: '50vh',
           fontSize: '20px',
         }}>
-        <p>
-          Edit <code>pages/helloReact.js</code> and save to reload.
-        </p>
+        <h1>
+          StrideSync Project
+        </h1>
       </div>
     </Layout>
   );

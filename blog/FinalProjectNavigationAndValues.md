@@ -21,4 +21,4 @@ Resourcefulness is another important core value because the app should provide a
 -	Home Page, Track Page, Train Page, Analytics Page, Journal Page, Profile Page, Enter Run Entry Pop Up, Enter Journal Entry Pop Up, Enter Profile Information Pop Up, Export Analytics, Add to Calendar
 
 <b>Navigation Tree</b>
-![plot](DesignSystems/DesignAndNavigationNavigationScreen.png)
+![plot](DesignAndNavigationNavigationScreen.png)
